@@ -1,0 +1,15 @@
+artifact_uri: file:///home/guillaume/code/GGIML/music_project/mlruns/1/e823b1007f0948d1a7960e1965403741/artifacts
+end_time: 1600452695855
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e823b1007f0948d1a7960e1965403741
+run_uuid: e823b1007f0948d1a7960e1965403741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1600445674659
+status: 4
+tags: []
+user_id: guillaume
